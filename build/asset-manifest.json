@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "static/css/main.cce7b723.chunk.css",
+    "main.js": "static/js/main.163b6a68.chunk.js",
+    "main.js.map": "static/js/main.163b6a68.chunk.js.map",
+    "runtime-main.js": "static/js/runtime-main.ddbf6686.js",
+    "runtime-main.js.map": "static/js/runtime-main.ddbf6686.js.map",
+    "static/css/2.6f60e7f3.chunk.css": "static/css/2.6f60e7f3.chunk.css",
+    "static/js/2.029385ed.chunk.js": "static/js/2.029385ed.chunk.js",
+    "static/js/2.029385ed.chunk.js.map": "static/js/2.029385ed.chunk.js.map",
+    "index.html": "index.html",
+    "precache-manifest.82431b6855e2df65405a9e9d3dd202f5.js": "precache-manifest.82431b6855e2df65405a9e9d3dd202f5.js",
+    "service-worker.js": "service-worker.js",
+    "static/css/2.6f60e7f3.chunk.css.map": "static/css/2.6f60e7f3.chunk.css.map",
+    "static/css/main.cce7b723.chunk.css.map": "static/css/main.cce7b723.chunk.css.map",
+    "static/media/bottom.png": "static/media/bottom.82180dad.png",
+    "static/media/index.css": "static/media/shouye6.6a7d2ce0.png",
+    "static/media/shop1.png": "static/media/shop1.b9a2b350.png",
+    "static/media/shouye1.png": "static/media/shouye1.f900c73d.png",
+    "static/media/shouye2.png": "static/media/shouye2.c1cd832b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddbf6686.js",
+    "static/css/2.6f60e7f3.chunk.css",
+    "static/js/2.029385ed.chunk.js",
+    "static/css/main.cce7b723.chunk.css",
+    "static/js/main.163b6a68.chunk.js"
+  ]
+}
