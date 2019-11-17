@@ -1,0 +1,119 @@
+
+.n1{
+    width: 100%;
+    height: 130px;
+    background-color: #eeeeee;
+    position: relative;
+}
+.n2{
+    width: 29%;
+    height: 110px;
+    background: url("./images/shouye/shouye3.png") no-repeat;
+    background-size:100% 100%;
+    display: inline-block;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.n3{
+    width: 29%;
+    height: 110px;
+    background: url("./images/shouye/shouye4.png") no-repeat;
+    background-size:100% 100%;    
+    display: inline-block;
+    margin-left: 3%;
+}
+.n4{
+    width: 29%;
+    height: 110px;
+    background: url("./images/shouye/shouye5.png") no-repeat;
+    background-size:100% 100%;
+    display: inline-block;
+    margin-left: 3%;
+}
+.n5{
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    opacity: 0.5;
+}
+.n1 p{
+    display: inline-block;
+    color: white;
+    margin-left: 5%;
+    position: absolute;
+    top: 40px;
+}
+.p1{
+    width: 100%;
+    height: 50px;
+    background: white;
+}
+.p1 p{
+    display: inline-block;
+    font-weight: bolder;
+    position: relative;
+    top: -25px;
+    left: 7%;
+}
+.p2{
+    width: 2%;
+    height: 30px;
+    background: #3fcccb;
+    position: relative;
+    top: 25%;
+}
+
+.p3{
+    width: 100%;
+    height: 200px;
+    background: url("./images/shouye/shouye6.png") no-repeat;
+    background-size:100% 120%;
+    position: relative;
+}
+.p3 p{
+    color: white;
+    display: inline-block;
+    position: absolute;
+    top: 160px;
+    left: 3%;
+}
+.p4{
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.La{
+    position: absolute;
+    width: 43%;
+    height: 200px;
+    background: black;
+    border-radius: 10px;
+    background: url("./images/linggan/linggan2.png");
+    background-size:100% 120%;
+}
+
+.Lb{
+    position: absolute;
+    width: 8%;
+    height: 30px;
+    background:url("./images/linggan/linggan4.png") no-repeat;
+    background-size:100% 100%;
+    z-index: 100;
+}
+
+.Lc{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: url("./images/linggan/linggan3.png");
+    background-size:100% 100%;
+    z-index: 100;
+}
+
+
+
+.shang{
+    width: 100%;
+    height: 58vw;
+}
